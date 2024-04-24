@@ -8,16 +8,16 @@ Our Problem Statement is **Developing a tailored evaluation framework to identif
 
 List of Airlines
 
-Singapore Airlines
-Qatar Airways
-All Nippon Airways
-Emirates
-Japan Airlines
-Turkish Airlines
-Air France
-Cathay Pacific Airways
-EVA Air
-Korean Air
+- Singapore Airlines
+- Qatar Airways
+- All Nippon Airways
+- Emirates
+- Japan Airlines
+- Turkish Airlines
+- Air France
+- Cathay Pacific Airways
+- EVA Air
+- Korean Air
 
 This dataset is provided under the MIT License.
 
