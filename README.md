@@ -1,4 +1,4 @@
-# airline-reviews-analysis
+# SC1015 Data Science Project: airline-reviews-analysis
 
 In recent decades, airline competition has received tremendous interest inside the research community, given the competition’s potentially extensive impacts on passengers, economies, and the society as a whole. Our analysis focuses on the reviews of the Top 10 rated airlines in 2023 sourced from Airline Quality (https://www.airlinequality.com) website.
 
