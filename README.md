@@ -46,7 +46,11 @@ This dataset is provided under the MIT License.
 
 ## References
 https://www.kaggle.com/datasets/sujalsuthar/airlines-reviews
+
 https://www.airlinequality.com
+
 https://www.sciencedirect.com/science/article/pii/S2941198X24000125
+
 https://github.com/AidanCooper/shap-analysis-guide
+
 https://github.com/cjhutto/vaderSentiment
